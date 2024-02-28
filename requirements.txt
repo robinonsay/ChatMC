@@ -1,0 +1,4 @@
+pyserial
+dearpygui
+pyaudio
+numpy
