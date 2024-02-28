@@ -1,0 +1,3 @@
+[submodule "external/mraa"]
+	path = external/mraa
+	url = https://github.com/eclipse/mraa.git
